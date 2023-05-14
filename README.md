@@ -1,6 +1,6 @@
 # new-resume
 ## Find My First Resume "Killol Sevak" here.
- (git@github.com:Killol14/new-resume.git)
+  https://killol14.github.io/new-resume/
  
 ## Technologies Used
 
