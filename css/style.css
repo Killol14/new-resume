@@ -192,7 +192,7 @@ footer {
 
 .cv-pdf i {
     font-size: 18px;
-    color: #fafafa;
+    color: orangered;
     text-align: center;
     padding-left: 5px;
     transition: all 0.35s ease-in-out;
@@ -217,7 +217,7 @@ footer {
     font-size: 13px;
     line-height: 7px;
     text-align: center;
-    color: #fafafa;
+    color: orangered;
     background: #8f8f8f;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
